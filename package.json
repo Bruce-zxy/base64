@@ -1,6 +1,6 @@
 {
   "name": "@hadesz/base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Base64 encoder/decoder.",
   "main": "index.js",
   "scripts": {
