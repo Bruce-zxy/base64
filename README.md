@@ -2,7 +2,7 @@
 
 ## Description
 
-[@hadesz/Base64](https://github.com/nestjs/nest) is a javascript tool for base64 encoding/decoding strings.
+[@hadesz/Base64](https://github.com/Bruce-zxy/base64) is a javascript tool for base64 encoding/decoding strings.
 
 ## Install
 
